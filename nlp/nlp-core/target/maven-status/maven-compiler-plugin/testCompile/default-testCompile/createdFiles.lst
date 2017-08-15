@@ -1,0 +1,5 @@
+com\bigeye\nlp\TestNER.class
+com\bigeye\nlp\TestCRFClassifier.class
+com\bigeye\nlp\TestStanfordNERExecutor.class
+com\bigeye\nlp\TestSentiment.class
+com\bigeye\nlp\EmbeddedToken.class
