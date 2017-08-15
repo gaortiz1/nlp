@@ -62,4 +62,11 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#project maven
+.classpath
+.project
+.settings/
+target/
 
+#intellij
+*.iml
